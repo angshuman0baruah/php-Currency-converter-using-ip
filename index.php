@@ -6,6 +6,8 @@
 			Please give feedback to this email angshuman0baruah@gmail.com
 		*/
 		
+	include("currency_converter.php");
+	
 	$amount = "10";
 	$from_currency = "USD";
 	
